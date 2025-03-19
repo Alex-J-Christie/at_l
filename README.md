@@ -1,2 +1,2 @@
 # at_l
-Activity &amp; Time Logger - AT_L - is (intended to be) a productivity app for monitoring how well you spend your time
+Activity & Time Logger is (intended to be) a productivity tool to keep track of how well your spending your time. It's largely just a timer attached to a sqlite db, but I had fun making it. I had started writing this a desktop application in a TUI and began work on building the GUI for it when I realized the intended use case was more suitable for a mobile app. I might return to this since getting more experience with GUI development.
